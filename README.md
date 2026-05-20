@@ -1,5 +1,3 @@
-# PRODIGY_WD_5
-
 # Weather App
 
 This is a simple web-based weather application that allows users to:
